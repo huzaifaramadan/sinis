@@ -1,2 +1,2 @@
-# sinis
-sistem informasi siswa
+# SINIS
+Sistem Informasi Siswa
